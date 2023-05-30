@@ -64,3 +64,13 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+
+
+```bash
+yarn add vue @vitejs/plugin-vue @vitejs/plugin-vue
+```
+
+並且新增 app.blade.php 
+app.js
+vite.config.js 設定 @vitejs/plugin-vue
